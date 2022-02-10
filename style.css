@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body#color{
 	background-color:#F5D8A6;
 }
@@ -80,8 +79,15 @@ p#para20{
 .pdivider{
 	margin-top: 200px;
 }
-=======
-.70s {
-background-color: #ffcc99;
+
+body#b70s {
+background-color: #b2b266;
 }
->>>>>>> c82888cdadb37eb279f4b4d3531a6d8f57cb3f5b
+
+p{
+	color: white;
+}
+
+h2 {
+	color: white;
+}
