@@ -90,8 +90,22 @@ p#paraC{
 .pdivider{
 	margin-top: 200px;
 }
-=======
-.70s {
-background-color: #ffcc99;
+
+body#b70s {
+background-color: #b2b266;
 }
 
+p{
+	color: white;
+}	font-family: Times New Roman;
+
+
+h2 {
+	color: white;
+	font-family: Times New Roman;
+
+}
+<<<<<<< HEAD
+
+=======
+>>>>>>> c8ab8a03ae8a6b641fca742005e298454b51ff31
