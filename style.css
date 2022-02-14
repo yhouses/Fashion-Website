@@ -4,7 +4,7 @@ body#color{
 }
 
 body#color3{
-	background-color:#F6B4B4;
+	background-color:#cf8de0;
 }
 
 body#color4{
@@ -20,7 +20,7 @@ h1{
 
 
 p#home{
-	
+
 	font-family: Georgia;
 	color: white;
 }
@@ -49,7 +49,7 @@ p#center{
 	margin: auto;
 }
 
-p#title{  
+p#title{
 	color: white;
 	font-family: Times New Roman;
 	font-size: 300px;
@@ -80,8 +80,17 @@ p#para20{
 .pdivider{
 	margin-top: 200px;
 }
-=======
-.70s {
-background-color: #ffcc99;
+
+body#b70s {
+background-color: #b2b266;
 }
->>>>>>> c82888cdadb37eb279f4b4d3531a6d8f57cb3f5b
+
+p{
+	font-family: Times New Roman;
+	color: white;
+}
+
+h2 {
+	font-family: Times New Roman;
+	color: white;
+}
