@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body#color{
 	background-color:#F5D8A6;
 }
@@ -9,6 +8,10 @@ body#color3{
 
 body#color4{
 	background-color: #E6B4F6;
+}
+
+body#color5{
+	background-color: #A5DD98;
 }
 
 h1{
@@ -69,6 +72,13 @@ p#para20{
 	padding-top: 110px;
 }
 
+p#paraC{
+	color: white;
+	font-family: Times New Roman;
+	font-size: 30px;
+	padding top: 110px;
+}
+
 .size{
 	width:90%;
 }
@@ -86,11 +96,12 @@ background-color: #b2b266;
 }
 
 p{
-	font-family: Times New Roman;
 	color: white;
-}
+}	font-family: Times New Roman;
+
 
 h2 {
-	font-family: Times New Roman;
 	color: white;
+	font-family: Times New Roman;
+
 }
