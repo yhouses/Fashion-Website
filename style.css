@@ -93,6 +93,8 @@ p#paraC{
 
 body#b70s {
 background-color: #b2b266;
+color: white;
+font-family: Times New Roman;
 }
 
 p{
@@ -103,5 +105,4 @@ p{
 h2 {
 	color: white;
 	font-family: Times New Roman;
-
 }
