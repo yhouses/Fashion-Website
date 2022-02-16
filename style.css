@@ -3,7 +3,7 @@ body#color{
 }
 
 body#color3{
-	background-color:#F6B4B4;
+	background-color:#cf8de0;
 }
 
 body#color4{
@@ -23,7 +23,7 @@ h1{
 
 
 p#home{
-	
+
 	font-family: Georgia;
 	color: white;
 }
@@ -52,7 +52,7 @@ p#center{
 	margin: auto;
 }
 
-p#title{  
+p#title{
 	color: white;
 	font-family: Times New Roman;
 	font-size: 300px;
@@ -105,4 +105,7 @@ h2 {
 	font-family: Times New Roman;
 
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7af81589b82e5e5c256d7cc687ab139752ca1e9b
