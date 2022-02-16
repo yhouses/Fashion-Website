@@ -1,6 +1,6 @@
 $(document).ready(function(){
-	let status=["no","no","no","no","no","no","no","no","no","no","no","no","no"];
-	for(let n=1; n<=13; n++)
+	let status=["no","no","no","no","no","no","no","no","no","no","no","no","no","no","no"];
+	for(let n=1; n<=15; n++)
 	{
 		$("#apple"+n).click (function() {
 			

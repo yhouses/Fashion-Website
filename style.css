@@ -11,7 +11,7 @@ body#color4{
 }
 
 body#color5{
-	background-color: #A5DD98;
+	background-color: #C1E2B9;
 }
 
 h1{
@@ -50,6 +50,7 @@ p#center{
 	text-align: center;
 	font-size: 30px;
 	margin: auto;
+	font-family: Times New Roman;
 }
 
 p#title{
@@ -72,12 +73,6 @@ p#para20{
 	padding-top: 110px;
 }
 
-p#paraC{
-	color: white;
-	font-family: Times New Roman;
-	font-size: 30px;
-	padding top: 110px;
-}
 
 .size{
 	width:90%;
@@ -93,6 +88,8 @@ p#paraC{
 
 body#b70s {
 background-color: #b2b266;
+color: white;
+font-family: Times New Roman;
 }
 
 p{
@@ -103,9 +100,18 @@ p{
 h2 {
 	color: white;
 	font-family: Times New Roman;
-
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 7af81589b82e5e5c256d7cc687ab139752ca1e9b
+div.click-to-top span {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #333;
+  color: #fff;
+}
+
+div.click-to-top:hover span {
+  display: block;
+}
