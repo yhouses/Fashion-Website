@@ -22,11 +22,3 @@ $(document).ready(function(){
 	}
 
 	});
-
-$("#btnfadein").click(function(){
-	$('#center').fadeIn("slow");
-	});
-
-$("#btnfadeout").click(function(){
-	$("#center").fadeOut("slow");
-});
