@@ -3,23 +3,30 @@ $(document).ready(function(){
 	for(let n=1; n<=13; n++)
 	{
 		$("#apple"+n).click (function() {
-			
+
 			if(status[n]=="no")
-	
-			{	
+
+			{
 				$("#apple"+n).css("width", "140%");
-			
-			
+
+
 		status[n]="yes";
 			}
-	
+
 	else{
 		$("#apple"+n).css("width", "90%");
 		status[n]="no";
 	}
-			
+
 		});
 	}
-	
+
 	});
 
+$("#btnfadein").click(function(){
+	$('#center').fadeIn("slow");
+	});
+
+$("#btnfadeout").click(function(){
+	$("#center").fadeOut("slow");
+});
